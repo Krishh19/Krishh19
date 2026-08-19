@@ -1,16 +1,44 @@
-## Hi there 👋
+ Hey, I'm Krish 
 
-<!--
-**Krishh19/Krishh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie developer turning ideas into real products and learning by building.
 
-Here are some ideas to get you started:
+Currently building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Recall](https://github.com/Krishh19/Recall)
+
+A private, AI-powered read-later app that saves, summarizes, and organizes links from across the web.
+
+Building it in public — one feature, bug fix, and release at a time.
+
+ Projects
+
+[Recall](https://github.com/Krishh19/Recall)
+Private, AI-powered read-later app for saving, summarizing, and organizing web content.
+
+[Skill_nearby](https://github.com/Krishh19/Skill_nearby)
+A skill-swapping project built around learning from other people.
+
+[sticker-notebook](https://github.com/Krishh19/sticker-notebook)**
+A TypeScript project exploring a digital notebook and sticker experience.
+
+ Tools I use
+
+* **Languages:** Dart, TypeScript
+* **Frameworks:** Flutter, React Native
+* **Backend:** Supabase
+* **UI:** Material 3
+* **Tools:** Git, GitHub, VS Code
+
+Currently learning
+
+* Building better mobile experiences
+* Product design & UX
+* Writing cleaner, maintainable code
+* Turning small ideas into shipped products
+
+---
+
+> Build. Break. Learn. Ship. Repeat.
+
+Find me on [X](https://x.com/krishxbuilds)
+
